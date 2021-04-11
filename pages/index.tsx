@@ -64,7 +64,7 @@ export default function Home() {
                 message: 'Please paste a correct link',
                 type: 'url',
               }]}>
-                <Input placeholder="https://my-super-long-link.com/blah-blah-blah-blah-blah-blah-blah-blah-blah-blah-blah-blah" size="large"/>
+                <Input placeholder="https://my-super-long-link.com/Let's make this a reasonable size said, Alice." size="large"/>
               </Form.Item>
             </div>
             <div className={styles.linkFieldButton}>
