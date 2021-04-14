@@ -80,7 +80,7 @@ export default function Home() {
       </div>
     </Content>
     <Footer className={styles.footer}>
-      Yet Another Link Shortener (YALS) &copy; 2021
+      Bridge City Tech &copy; 2021
     </Footer>
   </Layout>
 )
